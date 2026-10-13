@@ -1,0 +1,10 @@
+scripts/db_config.py
+__pycache__/
+*.pyc
+.vscode/
+.trunk/
+*.session.sql
+.vscode/
+.trunk/
+*.session.sql
+__pycache__/
